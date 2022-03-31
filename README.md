@@ -24,3 +24,4 @@ To create the Dashboard, had to clean the data first. The process of cleaning in
 4) Added Categories to Numeric Columns with Nested IF.
 5) Created Pivot Tables and made Charts.
 
+![Image](https://user-images.githubusercontent.com/43644740/161163556-81966bf2-b9b9-4226-918f-73628f1640e0.JPG)
